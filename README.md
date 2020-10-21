@@ -14,4 +14,4 @@
 </p>
 
 
-![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23000000&textColor=%2379FE96&qColor=%2379FE96Color=%2379FE96&borderColor=%2379FE96&codeColor=%2379FE96)
+![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23000000&textColor=%239E9E9E&qColor=%2379FE96&aColor=%2379FE96&borderColor=%2379FE96&codeColor=%2379FE96)
