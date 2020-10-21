@@ -1,18 +1,16 @@
 # Hello... 
 
-<p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/padyn-riddell/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/padyn-riddell/" height="30" width="40" /></a>
-<a href="https://medium.com/@pjriddell22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@pjriddell22" height="30" width="40" /></a>
+  <a href="https://medium.com/@pjriddell22">
+    <img align="right" alt="padyn | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/medium.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/padyn-riddell/">
+     <img align="right" alt="padyn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=squeaky1273&show_icons=true&theme=dark" alt="my github stats" width="445"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=squeaky1273&layout=compact&show_icons=true&theme=dark" alt="languages" height="176">
 </p>
 
-<a href="https://github.com/squeaky1273/squeaky1273">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=squeaky1273&show_icons=true&layout=compact&include_all_commits=true&theme=dark" alt="padyn's github stats" />
-</a>
 
-<a href="https://github.com/squeaky1273/squeaky1273">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=squeaky1273&layout=compact&theme=dark" alt="padyn's github stats" />
-</a>
-
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23000000&textColor=%2379FE96&qColor=%2379FE96Color=%2379FE96&borderColor=%2379FE96&codeColor=%2379FE96)
