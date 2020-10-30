@@ -1,7 +1,7 @@
 # Hello... 
 
 <h3 align="left">Connect with me:</h3>
-  <a href="https://medium.com/@pjriddell22">
+  <a href="https://medium.com/@padyn">
     <img align="center" alt="padyn | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/medium.svg" />
   </a>
   <a href="https://www.linkedin.com/in/padyn-riddell/">
@@ -14,4 +14,4 @@
 </p>
 
 
-![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23000000&textColor=%239E9E9E&qColor=%2379FE96&aColor=%2379FE96&borderColor=%2379FE96&codeColor=%2379FE96)
+![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23151515&textColor=%239E9E9E&qColor=%2379FE96&aColor=%2379FE96&borderColor=%2379FE96&codeColor=%2379FE96)
